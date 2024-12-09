@@ -1,0 +1,2750 @@
+{
+    "Left Ventricular Dysfunction": {
+        "drug": "Coreg"
+    },
+    "ADHD": {
+        "drug": "Amphetamine / dextroamphetamine"
+    },
+    "Birth Control": {
+        "drug": "Levonorgestrel"
+    },
+    "Opiate Dependence": {
+        "drug": "Buprenorphine / naloxone"
+    },
+    "Benign Prostatic Hyperplasia": {
+        "drug": "Tadalafil"
+    },
+    "Emergency Contraception": {
+        "drug": "Plan B One-Step"
+    },
+    "Bipolar Disorde": {
+        "drug": "Lamotrigine"
+    },
+    "Epilepsy": {
+        "drug": "Keppra"
+    },
+    "Migraine Prevention": {
+        "drug": "Nortriptyline"
+    },
+    "Depression": {
+        "drug": "Zoloft"
+    },
+    "Crohn's Disease": {
+        "drug": "Humira"
+    },
+    "Cough": {
+        "drug": "Vicodin"
+    },
+    "Obesity": {
+        "drug": "Topiramate"
+    },
+    "Urinary Tract Infection": {
+        "drug": "Amoxicillin"
+    },
+    "ibromyalgia": {
+        "drug": "Pregabalin"
+    },
+    "Chronic Myelogenous Leukemia": {
+        "drug": "Gleevec"
+    },
+    "HIV Infection": {
+        "drug": "Abacavir / dolutegravir / lamivudine"
+    },
+    "Insomnia": {
+        "drug": "Amitriptyline"
+    },
+    "Rheumatoid Arthritis": {
+        "drug": "Methotrexate"
+    },
+    "Vaginal Yeast Infection": {
+        "drug": "Fluconazole"
+    },
+    "Chlamydia Infection": {
+        "drug": "Azithromycin"
+    },
+    "Hirsutism": {
+        "drug": "Spironolactone"
+    },
+    "Panic Disorde": {
+        "drug": "Sertraline"
+    },
+    "Migraine": {
+        "drug": "Gabapentin"
+    },
+    "Pain": {
+        "drug": "Oxycodone"
+    },
+    "Irritable Bowel Syndrome": {
+        "drug": "Bentyl"
+    },
+    "Osteoarthritis": {
+        "drug": "Mobic"
+    },
+    "Constipation": {
+        "drug": "Magnesium citrate"
+    },
+    "Bowel Preparation": {
+        "drug": "Magnesium sulfate / potassium sulfate / sodium sulfate"
+    },
+    "Psychosis": {
+        "drug": "Haloperidol"
+    },
+    "Muscle Spasm": {
+        "drug": "Robaxin"
+    },
+    "Hepatitis C": {
+        "drug": "Ledipasvir / sofosbuvir"
+    },
+    "Overactive Bladde": {
+        "drug": "Tamsulosin"
+    },
+    "Diabetes, Type 2": {
+        "drug": "Victoza"
+    },
+    "Asthma, Maintenance": {
+        "drug": "Xolair"
+    },
+    "Non-Small Cell Lung Cance": {
+        "drug": "Erlotinib"
+    },
+    "Schizophrenia": {
+        "drug": "Clozapine"
+    },
+    "Dysuria": {
+        "drug": "Uricalm"
+    },
+    "Smoking Cessation": {
+        "drug": "Zyban"
+    },
+    "Anxiety": {
+        "drug": "BuSpar"
+    },
+    "Acne": {
+        "drug": "Tretinoin"
+    },
+    "emale Infertility": {
+        "drug": "Clomiphene"
+    },
+    "Constipation, Acute": {
+        "drug": "MiraLax"
+    },
+    "Constipation, Drug Induced": {
+        "drug": "Amitiza"
+    },
+    "Erectile Dysfunction": {
+        "drug": "Tadalafil"
+    },
+    "Trigeminal Neuralgia": {
+        "drug": "Oxcarbazepine"
+    },
+    "Underactive Thyroid": {
+        "drug": "Liothyronine"
+    },
+    "Chronic Pain": {
+        "drug": "OxyContin"
+    },
+    "Atrophic Vaginitis": {
+        "drug": "Estrace Vaginal Cream"
+    },
+    "Skin and Structure Infection": {
+        "drug": "Mupirocin"
+    },
+    "Tinnitus": {
+        "drug": "Alprazolam"
+    },
+    "Major Depressive Disorde": {
+        "drug": "Bupropion"
+    },
+    "Anxiety and Stress": {
+        "drug": "Celexa"
+    },
+    "Rosacea": {
+        "drug": "Metronidazole"
+    },
+    "High Blood Pressure": {
+        "drug": "Cozaar"
+    },
+    "2</span> users found this comment helpful.": {
+        "drug": "Alesse"
+    },
+    "Restless Legs Syndrome": {
+        "drug": "Gabapentin"
+    },
+    "Osteolytic Bone Metastases of Solid Tumors": {
+        "drug": "Zoledronic acid"
+    },
+    "Bronchitis": {
+        "drug": "Mucinex"
+    },
+    "Skin or Soft Tissue Infection": {
+        "drug": "Keflex"
+    },
+    "Obsessive Compulsive Disorde": {
+        "drug": "Zoloft"
+    },
+    "Endometriosis": {
+        "drug": "Medroxyprogesterone"
+    },
+    "Keratoconjunctivitis Sicca": {
+        "drug": "Cyclosporine"
+    },
+    "Breakthrough Pain": {
+        "drug": "Actiq"
+    },
+    "Seizures": {
+        "drug": "Keppra"
+    },
+    "Neuropathic Pain": {
+        "drug": "Pregabalin"
+    },
+    "Sedation": {
+        "drug": "Trazodone"
+    },
+    "Menstrual Disorders": {
+        "drug": "Ethinyl estradiol / norethindrone"
+    },
+    "Allergic Rhinitis": {
+        "drug": "Singulair"
+    },
+    "Anesthesia": {
+        "drug": "Propofol"
+    },
+    "Undifferentiated Connective Tissue Disease": {
+        "drug": "Hydroxychloroquine"
+    },
+    "Diabetes, Type 1": {
+        "drug": "Insulin inhalation, rapid acting"
+    },
+    "Abnormal Uterine Bleeding": {
+        "drug": "Provera"
+    },
+    "Weight Loss": {
+        "drug": "Adipex-P"
+    },
+    "Constipation, Chronic": {
+        "drug": "Linaclotide"
+    },
+    "Breast Cancer, Metastatic": {
+        "drug": "Femara"
+    },
+    "Period Pain": {
+        "drug": "Naproxen"
+    },
+    "Helicobacter Pylori Infection": {
+        "drug": "Bismuth subcitrate potassium / metronidazole / tetracycline"
+    },
+    "Atrial Fibrillation": {
+        "drug": "Rivaroxaban"
+    },
+    "Uterine Fibroids": {
+        "drug": "Lupron Depot"
+    },
+    "4</span> users found this comment helpful.": {
+        "drug": "Fragmin"
+    },
+    "Kidney Infections": {
+        "drug": "Ciprofloxacin"
+    },
+    "Generalized Anxiety Disorde": {
+        "drug": "Effexor XR"
+    },
+    "Asthma": {
+        "drug": "Prednisone"
+    },
+    "Postmenopausal Symptoms": {
+        "drug": "Estradiol"
+    },
+    "High Cholesterol": {
+        "drug": "Lipitor"
+    },
+    "Hypogonadism, Male": {
+        "drug": "Testosterone"
+    },
+    "Hyperthyroidism": {
+        "drug": "Methimazole"
+    },
+    "Back Pain": {
+        "drug": "Norco"
+    },
+    "Anaplastic Oligodendroglioma": {
+        "drug": "Temodar"
+    },
+    "Sjogren's Syndrome": {
+        "drug": "Hydroxychloroquine"
+    },
+    "Asthma, acute": {
+        "drug": "Methylprednisolone"
+    },
+    "Hot Flashes": {
+        "drug": "Effexor XR"
+    },
+    "3</span> users found this comment helpful.": {
+        "drug": "Drixoral Cold and Allergy"
+    },
+    "Herpes Simplex, Suppression": {
+        "drug": "Valacyclovir"
+    },
+    "Bacterial Infection": {
+        "drug": "Doxycycline"
+    },
+    "Bursitis": {
+        "drug": "Prednisone"
+    },
+    "Diaper Rash": {
+        "drug": "Calmoseptine"
+    },
+    "Systemic Mastocytosis": {
+        "drug": "Gastrocrom"
+    },
+    "Trichotillomania": {
+        "drug": "Celexa"
+    },
+    "Hashimoto's disease": {
+        "drug": "Thyroid desiccated"
+    },
+    "Eczema": {
+        "drug": "Prednisone"
+    },
+    "Dental Abscess": {
+        "drug": "Metronidazole"
+    },
+    "Headache": {
+        "drug": "Trazodone"
+    },
+    "Hypersomnia": {
+        "drug": "Dextroamphetamine"
+    },
+    "Xerostomia": {
+        "drug": "Saliva substitutes"
+    },
+    "Breast Cance": {
+        "drug": "Letrozole"
+    },
+    "Sore Throat": {
+        "drug": "Phenol"
+    },
+    "Barrett's Esophagus": {
+        "drug": "Dexlansoprazole"
+    },
+    "Pain/Feve": {
+        "drug": "Acetaminophen / aspirin / caffeine"
+    },
+    "Diverticulitis": {
+        "drug": "Flagyl"
+    },
+    "Sinusitis": {
+        "drug": "Augmentin"
+    },
+    "Polycystic Ovary Syndrome": {
+        "drug": "Metformin"
+    },
+    "Influenza": {
+        "drug": "Oseltamivir"
+    },
+    "Hypothyroidism, After Thyroid Removal": {
+        "drug": "Thyroid desiccated"
+    },
+    "Onychomycosis, Toenail": {
+        "drug": "Terbinafine"
+    },
+    "Progesterone Insufficiency": {
+        "drug": "Progesterone"
+    },
+    "11</span> users found this comment helpful.": {
+        "drug": "Finacea"
+    },
+    "GERD": {
+        "drug": "Ranitidine"
+    },
+    "Nausea/Vomiting, Postoperative": {
+        "drug": "Metoclopramide"
+    },
+    "Herpes Simplex": {
+        "drug": "Abreva"
+    },
+    "Gastroparesis": {
+        "drug": "Metoclopramide"
+    },
+    "Gout, Acute": {
+        "drug": "Naproxen"
+    },
+    "Motion Sickness": {
+        "drug": "Bonine"
+    },
+    "Multiple Sclerosis": {
+        "drug": "Dalfampridine"
+    },
+    "Autism": {
+        "drug": "Risperidone"
+    },
+    "Otitis Media": {
+        "drug": "Zithromax"
+    },
+    "Upper Respiratory Tract Infection": {
+        "drug": "Doxycycline"
+    },
+    "Surgical Prophylaxis": {
+        "drug": "Clindamycin"
+    },
+    "Psoriatic Arthritis": {
+        "drug": "Humira"
+    },
+    "Erosive Esophagitis": {
+        "drug": "Zantac"
+    },
+    "Premature Ventricular Depolarizations": {
+        "drug": "Metoprolol"
+    },
+    "Stomach Ulce": {
+        "drug": "Carafate"
+    },
+    "Nausea/Vomiting": {
+        "drug": "Atarax"
+    },
+    "Light Anesthesia": {
+        "drug": "Midazolam"
+    },
+    "Angina Pectoris Prophylaxis": {
+        "drug": "Imdur"
+    },
+    "0</span> users found this comment helpful.": {
+        "drug": "Nortrel 1 / 35"
+    },
+    "Paranoid Disorde": {
+        "drug": "Olanzapine"
+    },
+    "Prostatitis": {
+        "drug": "Avelox"
+    },
+    "Extrapyramidal Reaction": {
+        "drug": "Benztropine"
+    },
+    "mance Anxiety": {
+        "drug": "Propranolol"
+    },
+    "Night Terrors": {
+        "drug": "St. john's wort"
+    },
+    "High Cholesterol, Familial Heterozygous": {
+        "drug": "Lipitor"
+    },
+    "Spondyloarthritis": {
+        "drug": "Humira"
+    },
+    "Clostridial Infection": {
+        "drug": "Vancomycin"
+    },
+    "Dermatomyositis": {
+        "drug": "Hydroxychloroquine"
+    },
+    "Bronchiectasis": {
+        "drug": "Doxycycline"
+    },
+    "Nasal Congestion": {
+        "drug": "Loratadine / pseudoephedrine"
+    },
+    "Benign Essential Trem": {
+        "drug": "Primidone"
+    },
+    "Angina": {
+        "drug": "Ranolazine"
+    },
+    "moterol / mometasone)": {
+        "drug": "Formoterol / mometasone"
+    },
+    "Impetig": {
+        "drug": "Retapamulin"
+    },
+    "Conjunctivitis, Bacterial": {
+        "drug": "Moxifloxacin"
+    },
+    "Post Traumatic Stress Disorde": {
+        "drug": "Prazosin"
+    },
+    "Alcohol Withdrawal": {
+        "drug": "Gabapentin"
+    },
+    "Psoriasis": {
+        "drug": "Methotrexate"
+    },
+    "Cold Sores": {
+        "drug": "Valtrex"
+    },
+    "Hyperhidrosis": {
+        "drug": "Drysol"
+    },
+    "1</span> users found this comment helpful.": {
+        "drug": "Yaz"
+    },
+    "Ankylosing Spondylitis": {
+        "drug": "Voltaren"
+    },
+    "Hemorrhoids": {
+        "drug": "Hydrocortisone"
+    },
+    "142</span> users found this comment helpful.": {
+        "drug": "Adderall"
+    },
+    "Schizoaffective Disorde": {
+        "drug": "Zyprexa"
+    },
+    "Not Listed / Othe": {
+        "drug": "Lithium"
+    },
+    "Rhinitis": {
+        "drug": "Fluticasone"
+    },
+    "Oral Thrush": {
+        "drug": "Nystatin"
+    },
+    "Hyperlipoproteinemia": {
+        "drug": "Fenofibrate"
+    },
+    "Neutropenia Associated with Chemotherapy": {
+        "drug": "Pegfilgrastim"
+    },
+    "Osteoporosis": {
+        "drug": "Prolia"
+    },
+    "Reflex Sympathetic Dystrophy Syndrome": {
+        "drug": "Trazodone"
+    },
+    "Urticaria": {
+        "drug": "Omalizumab"
+    },
+    "Narcolepsy": {
+        "drug": "Methylphenidate"
+    },
+    "Systemic Lupus Erythematosus": {
+        "drug": "Hydroxychloroquine"
+    },
+    "Ulcerative Colitis": {
+        "drug": "Infliximab"
+    },
+    "Adult Human Growth Hormone Deficiency": {
+        "drug": "Somatropin"
+    },
+    "Bacterial Vaginitis": {
+        "drug": "Metronidazole"
+    },
+    "COPD, Maintenance": {
+        "drug": "Tiotropium"
+    },
+    "Anorexia": {
+        "drug": "Cyproheptadine"
+    },
+    "TSH Suppression": {
+        "drug": "Thyroid desiccated"
+    },
+    "Breast Cancer, Adjuvant": {
+        "drug": "Femara"
+    },
+    "Glaucoma": {
+        "drug": "Brimonidine / timolol"
+    },
+    "Cough and Nasal Congestion": {
+        "drug": "Mucinex D"
+    },
+    "8</span> users found this comment helpful.": {
+        "drug": "Nexplanon"
+    },
+    "Inflammatory Conditions": {
+        "drug": "Mobic"
+    },
+    "Urinary Incontinence": {
+        "drug": "VESIcare"
+    },
+    "Gout": {
+        "drug": "Allopurinol"
+    },
+    "Bladder Infection": {
+        "drug": "Amoxil"
+    },
+    "Human Papillomavirus Prophylaxis": {
+        "drug": "Gardasil"
+    },
+    "Glioblastoma Multiforme": {
+        "drug": "Avastin"
+    },
+    "Strep Throat": {
+        "drug": "Augmentin"
+    },
+    "Bacterial Skin Infection": {
+        "drug": "Sulfamethoxazole / trimethoprim"
+    },
+    "Hereditary Angioedema": {
+        "drug": "Ruconest"
+    },
+    "Cold Symptoms": {
+        "drug": "Acetaminophen / chlorpheniramine"
+    },
+    "Labor Pain": {
+        "drug": "Butorphanol"
+    },
+    "Dry Skin": {
+        "drug": "Ammonium lactate"
+    },
+    "Diabetes Insipidus": {
+        "drug": "DDAVP"
+    },
+    "Methicillin-Resistant Staphylococcus Aureus Infection": {
+        "drug": "Linezolid"
+    },
+    "Borderline Personality Disorde": {
+        "drug": "L-methylfolate"
+    },
+    "Amenorrhea": {
+        "drug": "Medroxyprogesterone"
+    },
+    "Pneumonia": {
+        "drug": "Levaquin"
+    },
+    "Seborrheic Dermatitis": {
+        "drug": "Ketoconazole"
+    },
+    "Interstitial Cystitis": {
+        "drug": "Phenazopyridine"
+    },
+    "Malaria Prevention": {
+        "drug": "Malarone"
+    },
+    "Prevention of Dental Caries": {
+        "drug": "Fluoride"
+    },
+    "Herbal Supplementation": {
+        "drug": "Turmeric"
+    },
+    "Plaque Psoriasis": {
+        "drug": "Apremilast"
+    },
+    "Raynaud's Syndrome": {
+        "drug": "Norvasc"
+    },
+    "Addison's Disease": {
+        "drug": "Fludrocortisone"
+    },
+    "Prostate Cance": {
+        "drug": "Lupron"
+    },
+    "Allergies": {
+        "drug": "Xyzal"
+    },
+    "Opioid-Induced Constipation": {
+        "drug": "Movantik"
+    },
+    "moterol)": {
+        "drug": "Budesonide / formoterol"
+    },
+    "13</span> users found this comment helpful.": {
+        "drug": "Accutane"
+    },
+    "Diarrhea": {
+        "drug": "Saccharomyces boulardii lyo"
+    },
+    "Seasonal Allergic Conjunctivitis": {
+        "drug": "Olopatadine"
+    },
+    "Opioid Overdose": {
+        "drug": "Naloxone"
+    },
+    "Spondylolisthesis": {
+        "drug": "Gabapentin"
+    },
+    "Shift Work Sleep Disorde": {
+        "drug": "Provigil"
+    },
+    "Obstructive Sleep Apnea/Hypopnea Syndrome": {
+        "drug": "Provigil"
+    },
+    "Nausea/Vomiting of Pregnancy": {
+        "drug": "Diclegis"
+    },
+    "Mucositis": {
+        "drug": "NeutraSal"
+    },
+    "Ulcerative Colitis, Active": {
+        "drug": "Mesalamine"
+    },
+    "Head Lice": {
+        "drug": "Malathion"
+    },
+    "Tonsillitis/Pharyngitis": {
+        "drug": "Azithromycin"
+    },
+    "Pseudotumor Cerebri": {
+        "drug": "Acetazolamide"
+    },
+    "Parkinson's Disease": {
+        "drug": "Carbidopa / levodopa"
+    },
+    "Sciatica": {
+        "drug": "Cyclobenzaprine"
+    },
+    "Cance": {
+        "drug": "Chaparral"
+    },
+    "Bacterial Endocarditis Prevention": {
+        "drug": "Moxatag"
+    },
+    "Diarrhea, Chronic": {
+        "drug": "Colesevelam"
+    },
+    "Hypertensive Emergency": {
+        "drug": "Hydralazine"
+    },
+    "Keratosis": {
+        "drug": "Carac"
+    },
+    "Ovarian Cysts": {
+        "drug": "Sprintec"
+    },
+    "Behcet's Disease": {
+        "drug": "Infliximab"
+    },
+    "Chronic Idiopathic Constipation": {
+        "drug": "Plecanatide"
+    },
+    "lic Acid Deficiency": {
+        "drug": "L-methylfolate"
+    },
+    "Chronic Fatigue Syndrome": {
+        "drug": "Nuvigil"
+    },
+    "Basal Cell Carcinoma": {
+        "drug": "Fluorouracil"
+    },
+    "Cataplexy": {
+        "drug": "Sodium oxybate"
+    },
+    "Crohn's Disease, Maintenance": {
+        "drug": "Humira"
+    },
+    "Diabetic Peripheral Neuropathy": {
+        "drug": "Pregabalin"
+    },
+    "Arrhythmia": {
+        "drug": "Amiodarone"
+    },
+    "Primary Ovarian Failure": {
+        "drug": "Premarin"
+    },
+    "Influenza Prophylaxis": {
+        "drug": "FluMist"
+    },
+    "Agitated State": {
+        "drug": "Aripiprazole"
+    },
+    "Heart Failure": {
+        "drug": "Coreg"
+    },
+    "atigue": {
+        "drug": "Amphetamine / dextroamphetamine"
+    },
+    "Opiate Withdrawal": {
+        "drug": "Robaxin-750"
+    },
+    "Endometrial Hyperplasia, Prophylaxis": {
+        "drug": "Progesterone"
+    },
+    "Immunosuppression": {
+        "drug": "Prednisone"
+    },
+    "Dystonia": {
+        "drug": "Baclofen"
+    },
+    "Alopecia": {
+        "drug": "Minoxidil"
+    },
+    "Vulvodynia": {
+        "drug": "Gabapentin"
+    },
+    "Premenstrual Dysphoric Disorde": {
+        "drug": "Lexapro"
+    },
+    "Alcohol Dependence": {
+        "drug": "Naltrexone"
+    },
+    "Myasthenia Gravis": {
+        "drug": "CellCept"
+    },
+    "Social Anxiety Disorde": {
+        "drug": "Venlafaxine"
+    },
+    "Atopic Dermatitis": {
+        "drug": "Tacrolimus"
+    },
+    "Schistosoma japonicum": {
+        "drug": "Biltricide"
+    },
+    "Sinus Symptoms": {
+        "drug": "Ibuprofen / pseudoephedrine"
+    },
+    "min / sitagliptin)": {
+        "drug": "Metformin / sitagliptin"
+    },
+    "Dermatitis": {
+        "drug": "Fluocinonide"
+    },
+    "Eye Redness": {
+        "drug": "Ocular lubricant"
+    },
+    "Warts": {
+        "drug": "Salicylic acid"
+    },
+    "Menorrhagia": {
+        "drug": "Tranexamic acid"
+    },
+    "Seizure Prevention": {
+        "drug": "Lamotrigine"
+    },
+    "Ophthalmic Surgery": {
+        "drug": "Moxifloxacin"
+    },
+    "Skin Rash": {
+        "drug": "Prednisone"
+    },
+    "Condylomata Acuminata": {
+        "drug": "Aldara"
+    },
+    "NSAID-Induced Ulcer Prophylaxis": {
+        "drug": "Esomeprazole / naproxen"
+    },
+    "Tinea Versicol": {
+        "drug": "Selenium sulfide"
+    },
+    "Peripheral Neuropathy": {
+        "drug": "Gabapentin"
+    },
+    "Deep Vein Thrombosis": {
+        "drug": "Xarelto"
+    },
+    "6</span> users found this comment helpful.": {
+        "drug": "Dulcolax"
+    },
+    "Heart Attack": {
+        "drug": "Clopidogrel"
+    },
+    "Pulmonary Embolism, Recurrent Event": {
+        "drug": "Rivaroxaban"
+    },
+    "Light Sedation": {
+        "drug": "Valium"
+    },
+    "Acute Lymphoblastic Leukemia": {
+        "drug": "Gleevec"
+    },
+    "Hyperprolactinemia": {
+        "drug": "Dostinex"
+    },
+    "Indigestion": {
+        "drug": "Prilosec OTC"
+    },
+    "Hepatitis B": {
+        "drug": "Viread"
+    },
+    "Dysautonomia": {
+        "drug": "Midodrine"
+    },
+    "Status Epilepticus": {
+        "drug": "Ativan"
+    },
+    "Postpartum Depression": {
+        "drug": "Celexa"
+    },
+    "Multiple Myeloma": {
+        "drug": "Velcade"
+    },
+    "Prevention of Hypokalemia": {
+        "drug": "Potassium chloride"
+    },
+    "Edema": {
+        "drug": "Furosemide"
+    },
+    "Urinary Retention": {
+        "drug": "Bethanechol"
+    },
+    "Prevention of Thromboembolism in Atrial Fibrillation": {
+        "drug": "Eliquis"
+    },
+    "Cluster Headaches": {
+        "drug": "Tizanidine"
+    },
+    "Sexual Dysfunction, SSRI Induced": {
+        "drug": "BuSpar"
+    },
+    "Dermatitis Herpetiformis": {
+        "drug": "Decadron"
+    },
+    "Temporomandibular Joint Disorde": {
+        "drug": "Cyclobenzaprine"
+    },
+    "Burns, External": {
+        "drug": "Silver sulfadiazine"
+    },
+    "Actinic Keratosis": {
+        "drug": "Fluorouracil"
+    },
+    "Pharyngitis": {
+        "drug": "Prednisone"
+    },
+    "Melanoma, Metastatic": {
+        "drug": "Zelboraf"
+    },
+    "Atrial Flutte": {
+        "drug": "Flecainide"
+    },
+    "Lyme Disease": {
+        "drug": "Doxycycline"
+    },
+    "Dry Eye Disease": {
+        "drug": "Xiidra"
+    },
+    "Allergic Reactions": {
+        "drug": "Prednisone"
+    },
+    "Hypertriglyceridemia": {
+        "drug": "Lovaza"
+    },
+    "Pruritus": {
+        "drug": "Hydroxyzine"
+    },
+    "Carcinoid Tum": {
+        "drug": "Octreotide"
+    },
+    "Muscle Pain": {
+        "drug": "Voltaren"
+    },
+    "Colorectal Cance": {
+        "drug": "Xeloda"
+    },
+    "Vitamin/Mineral Supplementation during Pregnancy/Lactation": {
+        "drug": "Ferrous sulfate"
+    },
+    "Nausea/Vomiting, Chemotherapy Induced": {
+        "drug": "Dronabinol"
+    },
+    "Women (oxybutynin)": {
+        "drug": "Oxybutynin"
+    },
+    "Primary Immunodeficiency Syndrome": {
+        "drug": "Immune globulin subcutaneous"
+    },
+    "New Daily Persistent Headache": {
+        "drug": "Levetiracetam"
+    },
+    "Pneumococcal Disease Prophylaxis": {
+        "drug": "Prevnar 13"
+    },
+    "Burning Mouth Syndrome": {
+        "drug": "Amitriptyline"
+    },
+    "Urinary Tract Stones": {
+        "drug": "Tamsulosin"
+    },
+    "Pseudobulbar Affect": {
+        "drug": "Nuedexta"
+    },
+    "94</span> users found this comment helpful.": {
+        "drug": "Mobic"
+    },
+    "Eye Redness/Itching": {
+        "drug": "Opcon-A"
+    },
+    "Deep Vein Thrombosis, First Event": {
+        "drug": "Coumadin"
+    },
+    "Pulmonary Hypertension": {
+        "drug": "Ambrisentan"
+    },
+    "Malaria": {
+        "drug": "Doxycycline"
+    },
+    "Sarcoidosis": {
+        "drug": "Prednisone"
+    },
+    "Dietary Supplementation": {
+        "drug": "Multivitamin"
+    },
+    "Bulimia": {
+        "drug": "Prozac"
+    },
+    "Tendonitis": {
+        "drug": "Mobic"
+    },
+    "Nasal Polyps": {
+        "drug": "Flonase"
+    },
+    "Hypokalemia": {
+        "drug": "Klor-Con"
+    },
+    "Anemia, Sickle Cell": {
+        "drug": "Hydroxyurea"
+    },
+    "Uveitis": {
+        "drug": "Durezol"
+    },
+    "Streptococcal Infection": {
+        "drug": "Levofloxacin"
+    },
+    "Perimenopausal Symptoms": {
+        "drug": "Clonidine"
+    },
+    "Asperger Syndrome": {
+        "drug": "Risperdal"
+    },
+    "Tinea Corporis": {
+        "drug": "Nizoral Topical"
+    },
+    "Mania": {
+        "drug": "Divalproex sodium"
+    },
+    "Renal Cell Carcinoma": {
+        "drug": "Votrient"
+    },
+    "COPD": {
+        "drug": "Anoro Ellipta"
+    },
+    "Biliary Cirrhosis": {
+        "drug": "Urso"
+    },
+    "Vertig": {
+        "drug": "Bonine"
+    },
+    "Reversal of Opioid Sedation": {
+        "drug": "Naloxone"
+    },
+    "Non-Hodgkin's Lymphoma": {
+        "drug": "Rituxan"
+    },
+    "High Cholesterol, Familial Homozygous": {
+        "drug": "Repatha"
+    },
+    "Periodic Limb Movement Disorde": {
+        "drug": "Gabapentin"
+    },
+    "Supraventricular Tachycardia": {
+        "drug": "Metoprolol"
+    },
+    "Hypoestrogenism": {
+        "drug": "Conjugated estrogens"
+    },
+    "Juvenile Idiopathic Arthritis": {
+        "drug": "Adalimumab"
+    },
+    "Swine Flu": {
+        "drug": "Oseltamivir"
+    },
+    "Giardiasis": {
+        "drug": "Metronidazole"
+    },
+    "Binge Eating Disorde": {
+        "drug": "Lisdexamfetamine"
+    },
+    "Tourette's Syndrome": {
+        "drug": "Catapres"
+    },
+    "Trichomoniasis": {
+        "drug": "Metronidazole"
+    },
+    "acial Wrinkles": {
+        "drug": "Dermal filler"
+    },
+    "28</span> users found this comment helpful.": {
+        "drug": "Silenor"
+    },
+    "Pulmonary Embolism": {
+        "drug": "Rivaroxaban"
+    },
+    "Conjunctivitis, Allergic": {
+        "drug": "Zaditor"
+    },
+    "Avian Influenza": {
+        "drug": "Tamiflu"
+    },
+    "16</span> users found this comment helpful.": {
+        "drug": "Metadate CD"
+    },
+    "Hemangioma": {
+        "drug": "Propranolol"
+    },
+    "Nocturnal Leg Cramps": {
+        "drug": "Soma"
+    },
+    "Thyroid Suppression Test": {
+        "drug": "Levothyroxine"
+    },
+    "Muscle Twitching": {
+        "drug": "Baclofen"
+    },
+    "Pupillary Dilation": {
+        "drug": "Hydroxyamphetamine / tropicamide"
+    },
+    "Lennox-Gastaut Syndrome": {
+        "drug": "Onfi"
+    },
+    "Opiate Adjunct": {
+        "drug": "Promethazine"
+    },
+    "Postoperative Pain": {
+        "drug": "Ketorolac"
+    },
+    "Candida Urinary Tract Infection": {
+        "drug": "Diflucan"
+    },
+    "Cerebral Spasticity": {
+        "drug": "Baclofen"
+    },
+    "Lipodystrophy": {
+        "drug": "Egrifta"
+    },
+    "Androgenetic Alopecia": {
+        "drug": "Finasteride"
+    },
+    "Computed Tomography": {
+        "drug": "Readi-Cat"
+    },
+    "Mitral Valve Prolapse": {
+        "drug": "Atenolol"
+    },
+    "Vitamin D Deficiency": {
+        "drug": "Ergocalciferol"
+    },
+    "Glaucoma, Open Angle": {
+        "drug": "Lumigan"
+    },
+    "Endoscopy or Radiology Premedication": {
+        "drug": "Diazepam"
+    },
+    "Alzheimer's Disease": {
+        "drug": "Donepezil"
+    },
+    "Gouty Arthritis": {
+        "drug": "Prednisone"
+    },
+    "Paroxysmal Supraventricular Tachycardia": {
+        "drug": "Flecainide"
+    },
+    "Deep Vein Thrombosis, Prophylaxis": {
+        "drug": "Lovenox"
+    },
+    "Gaucher Disease": {
+        "drug": "Cerezyme"
+    },
+    "Lymphocytic Colitis": {
+        "drug": "Asacol"
+    },
+    "Pancreatic Cance": {
+        "drug": "Gemcitabine"
+    },
+    "Cystic Fibrosis": {
+        "drug": "Pancrelipase"
+    },
+    "Noninfectious Colitis": {
+        "drug": "Dicyclomine"
+    },
+    "27</span> users found this comment helpful.": {
+        "drug": "Femring"
+    },
+    "Nephrocalcinosis": {
+        "drug": "Hydrochlorothiazide"
+    },
+    "Iron Deficiency Anemia": {
+        "drug": "Slow Fe"
+    },
+    "mulation) (phenylephrine)": {
+        "drug": "Phenylephrine"
+    },
+    "Hiccups": {
+        "drug": "Thorazine"
+    },
+    "75</span> users found this comment helpful.": {
+        "drug": "Wellbutrin"
+    },
+    "Bronchospasm Prophylaxis": {
+        "drug": "Singulair"
+    },
+    "Chronic Spasticity": {
+        "drug": "Baclofen"
+    },
+    "min / saxagliptin)": {
+        "drug": "Metformin / saxagliptin"
+    },
+    "Post-Cholecystectomy Diarrhea": {
+        "drug": "Cholestyramine"
+    },
+    "Postherpetic Neuralgia": {
+        "drug": "Gabapentin"
+    },
+    "Insomnia, Stimulant-Associated": {
+        "drug": "Clonidine"
+    },
+    "COPD, Acute": {
+        "drug": "Ventolin"
+    },
+    "Herpes Simplex Dendritic Keratitis": {
+        "drug": "Ganciclovir"
+    },
+    "Oophorectomy": {
+        "drug": "Conjugated estrogens"
+    },
+    "Cyclic Vomiting Syndrome": {
+        "drug": "Amitriptyline"
+    },
+    "Chronic Lymphocytic Leukemia": {
+        "drug": "Rituximab"
+    },
+    "Lyme Disease, Arthritis": {
+        "drug": "Hydroxychloroquine"
+    },
+    "Pseudomembranous Colitis": {
+        "drug": "Metronidazole"
+    },
+    "Conjunctivitis": {
+        "drug": "Zymar"
+    },
+    "15</span> users found this comment helpful.": {
+        "drug": "Nicoderm CQ"
+    },
+    "min)": {
+        "drug": "Metformin"
+    },
+    "Intraocular Hypertension": {
+        "drug": "Xalatan"
+    },
+    "Aphthous Ulce": {
+        "drug": "Triamcinolone"
+    },
+    "Ulcerative Colitis, Maintenance": {
+        "drug": "Mesalamine"
+    },
+    "Melasma": {
+        "drug": "Tri-Luma"
+    },
+    "Lyme Disease, Neurologic": {
+        "drug": "Bicillin L-A"
+    },
+    "ge (amlodipine / valsartan)": {
+        "drug": "Amlodipine / valsartan"
+    },
+    "Herpes Zoste": {
+        "drug": "Valtrex"
+    },
+    "12</span> users found this comment helpful.": {
+        "drug": "Aldactone"
+    },
+    "Cervical Dystonia": {
+        "drug": "OnabotulinumtoxinA"
+    },
+    "Labor Induction": {
+        "drug": "Oxytocin"
+    },
+    "Human Papilloma Virus": {
+        "drug": "Aldara"
+    },
+    "Chronic Pancreatitis": {
+        "drug": "Pancrelipase"
+    },
+    "Polycythemia Vera": {
+        "drug": "Jakafi"
+    },
+    "9</span> users found this comment helpful.": {
+        "drug": "Lidex"
+    },
+    "Dermatological Disorders": {
+        "drug": "Urea"
+    },
+    "Lewy Body Dementia": {
+        "drug": "Donepezil"
+    },
+    "amilial Mediterranean Feve": {
+        "drug": "Colchicine"
+    },
+    "Neurosurgery": {
+        "drug": "Dilantin"
+    },
+    "Gastroenteritis": {
+        "drug": "Ondansetron"
+    },
+    "Macular Edema": {
+        "drug": "Ranibizumab"
+    },
+    "Tinea Pedis": {
+        "drug": "Spectazole"
+    },
+    "7</span> users found this comment helpful.": {
+        "drug": "Subutex"
+    },
+    "Diagnosis and Investigation": {
+        "drug": "Lymphoseek"
+    },
+    "35</span> users found this comment helpful.": {
+        "drug": "Namenda"
+    },
+    "Gas": {
+        "drug": "Gas-X"
+    },
+    "Neuralgia": {
+        "drug": "Pregabalin"
+    },
+    "Local Anesthesia": {
+        "drug": "Dibucaine"
+    },
+    "54</span> users found this comment helpful.": {
+        "drug": "Euflexxa"
+    },
+    "Acute Coronary Syndrome": {
+        "drug": "Plavix"
+    },
+    "Aspiration Pneumonia": {
+        "drug": "Clindamycin"
+    },
+    "Idiopathic Thrombocytopenic Purpura": {
+        "drug": "Promacta"
+    },
+    "Onychomycosis, Fingernail": {
+        "drug": "Terbinafine"
+    },
+    "Photoaging of the Skin": {
+        "drug": "Retin-A"
+    },
+    "Premature Lab": {
+        "drug": "Hydroxyprogesterone"
+    },
+    "Precocious Puberty": {
+        "drug": "Lupron Depot-PED"
+    },
+    "Prevention of Bladder infection": {
+        "drug": "Macrodantin"
+    },
+    "Seasonal Affective Disorde": {
+        "drug": "Wellbutrin XL"
+    },
+    "Diabetic Kidney Disease": {
+        "drug": "Cozaar"
+    },
+    "Crohn's Disease, Acute": {
+        "drug": "Budesonide"
+    },
+    "Insulin Resistance Syndrome": {
+        "drug": "Metformin"
+    },
+    "Pudendal Neuralgia": {
+        "drug": "Amitriptyline"
+    },
+    "Reiter's Syndrome": {
+        "drug": "Adalimumab"
+    },
+    "17</span> users found this comment helpful.": {
+        "drug": "Remeron"
+    },
+    "Amyotrophic Lateral Sclerosis": {
+        "drug": "Riluzole"
+    },
+    "Body Dysmorphic Disorde": {
+        "drug": "Fluoxetine"
+    },
+    "Prosthetic Heart Valves, Mechanical Valves - Thrombosis Prophylaxis": {
+        "drug": "Warfarin"
+    },
+    "Dandruff": {
+        "drug": "Nizoral A-D"
+    },
+    "Vitamin B12 Deficiency": {
+        "drug": "Cyanocobalamin"
+    },
+    "Bone infection": {
+        "drug": "Clindamycin"
+    },
+    "Prosthetic Heart Valves, Tissue Valves - Thrombosis Prophylaxis": {
+        "drug": "Warfarin"
+    },
+    "Iritis": {
+        "drug": "Loteprednol"
+    },
+    "Allergic Urticaria": {
+        "drug": "Hydroxyzine"
+    },
+    "Cardiovascular Risk Reduction": {
+        "drug": "Ramipril"
+    },
+    "Giant Cell Tumor of Bone": {
+        "drug": "Denosumab"
+    },
+    "Babesiosis": {
+        "drug": "Mepron"
+    },
+    "Secondary Hyperparathyroidism": {
+        "drug": "Sensipar"
+    },
+    "Hypoparathyroidism": {
+        "drug": "Teriparatide"
+    },
+    "Performance Anxiety": {
+        "drug": "Inderal"
+    },
+    "Abortion": {
+        "drug": "Misoprostol"
+    },
+    "Skin Cance": {
+        "drug": "Efudex"
+    },
+    "Ovulation Induction": {
+        "drug": "Clomiphene"
+    },
+    "Liver Magnetic Resonance Imaging": {
+        "drug": "Eovist"
+    },
+    "Vitamin/Mineral Supplementation and Deficiency": {
+        "drug": "Chromium picolinate"
+    },
+    "79</span> users found this comment helpful.": {
+        "drug": "Zanaflex"
+    },
+    "Herpes Simplex, Mucocutaneous/Immunocompetent Host": {
+        "drug": "Famciclovir"
+    },
+    "10</span> users found this comment helpful.": {
+        "drug": "Zegerid"
+    },
+    "Anemia Associated with Chronic Renal Failure": {
+        "drug": "Epoetin alfa"
+    },
+    "Hyperphosphatemia of Renal Failure": {
+        "drug": "Sevelamer"
+    },
+    "Dissociative Identity Disorde": {
+        "drug": "Sertraline"
+    },
+    "Anal Fissure and Fistula": {
+        "drug": "Rectiv"
+    },
+    "14</span> users found this comment helpful.": {
+        "drug": "Revlimid"
+    },
+    "Herpes Simplex, Mucocutaneous/Immunocompromised Host": {
+        "drug": "Valacyclovir"
+    },
+    "Scabies": {
+        "drug": "Stromectol"
+    },
+    "5</span> users found this comment helpful.": {
+        "drug": "Diprivan"
+    },
+    "Endometrial Cance": {
+        "drug": "Megace"
+    },
+    "Transient Ischemic Attack": {
+        "drug": "Bayer Children's Aspirin"
+    },
+    "Granuloma Annulare": {
+        "drug": "Accutane"
+    },
+    "Traveler's Diarrhea": {
+        "drug": "Cipro"
+    },
+    "Candidemia": {
+        "drug": "Fluconazole"
+    },
+    "t Pac with Cyclobenzaprine (cyclobenzaprine)": {
+        "drug": "Cyclobenzaprine"
+    },
+    "Hypoactive Sexual Desire Disorde": {
+        "drug": "Addyi"
+    },
+    "Epicondylitis, Tennis Elbow": {
+        "drug": "Prednisone"
+    },
+    "Nightmares": {
+        "drug": "Prazosin"
+    },
+    "Dientamoeba fragilis": {
+        "drug": "Paromomycin"
+    },
+    "Ventricular Tachycardia": {
+        "drug": "Amiodarone"
+    },
+    "Dumping Syndrome": {
+        "drug": "Cholestyramine"
+    },
+    "Myelodysplastic Syndrome": {
+        "drug": "Azacitidine"
+    },
+    "Hypodermoclysis": {
+        "drug": "Hyaluronidase"
+    },
+    "zen Shoulde": {
+        "drug": "Relafen"
+    },
+    "Topical Disinfection": {
+        "drug": "Povidone iodine"
+    },
+    "Perioral Dermatitis": {
+        "drug": "Metronidazole"
+    },
+    "Agitation": {
+        "drug": "Olanzapine"
+    },
+    "Intermittent Claudication": {
+        "drug": "Cilostazol"
+    },
+    "Prevention of Osteoporosis": {
+        "drug": "Zoledronic acid"
+    },
+    "Leukemia": {
+        "drug": "Dasatinib"
+    },
+    "Dermatitis Herpeti": {
+        "drug": "Dexamethasone"
+    },
+    "mis": {
+        "drug": "Dapsone"
+    },
+    "Eosinophilic Esophagitis": {
+        "drug": "Budesonide"
+    },
+    "Hyperlipoproteinemia Type IIa, Elevated LDL": {
+        "drug": "Welchol"
+    },
+    "Endometrial Hyperplasia": {
+        "drug": "Megestrol"
+    },
+    "19</span> users found this comment helpful.": {
+        "drug": "OsmoPrep"
+    },
+    "Peptic Ulce": {
+        "drug": "Protonix"
+    },
+    "Chronic Myofascial Pain": {
+        "drug": "Cyclobenzaprine"
+    },
+    "Enterocolitis": {
+        "drug": "Donnatal"
+    },
+    "Secondary Cutaneous Bacterial Infections": {
+        "drug": "Mupirocin"
+    },
+    "Syringomyelia": {
+        "drug": "Tramadol"
+    },
+    "Postoperative Ocular Inflammation": {
+        "drug": "Difluprednate"
+    },
+    "Persistent Depressive Disorde": {
+        "drug": "Amitriptyline"
+    },
+    "Otitis Externa": {
+        "drug": "Acetic acid / hydrocortisone"
+    },
+    "Organ Transplant, Rejection Prophylaxis": {
+        "drug": "Prograf"
+    },
+    "Intermittent Explosive Disorde": {
+        "drug": "Quetiapine"
+    },
+    "Dermatophytosis": {
+        "drug": "Gris-PEG"
+    },
+    "Inflammatory Bowel Disease": {
+        "drug": "Entocort EC"
+    },
+    "Porphyria": {
+        "drug": "Panhematin"
+    },
+    "Anemia": {
+        "drug": "Multivitamin with iron"
+    },
+    "Hyperuricemia Secondary to Chemotherapy": {
+        "drug": "Allopurinol"
+    },
+    "Wolff-Parkinson-White Syndrome": {
+        "drug": "Tambocor"
+    },
+    "eve": {
+        "drug": "Advil"
+    },
+    "Ectopic Pregnancy": {
+        "drug": "Methotrexate"
+    },
+    "Thyroid Cance": {
+        "drug": "Nature-Throid"
+    },
+    "Tuberculosis, Latent": {
+        "drug": "Isoniazid"
+    },
+    "Nasal Carriage of Staphylococcus aureus": {
+        "drug": "Mupirocin"
+    },
+    "Systemic Candidiasis": {
+        "drug": "Fluconazole"
+    },
+    "Ear Wax Impaction": {
+        "drug": "Debrox"
+    },
+    "Hepatocellular Carcinoma": {
+        "drug": "Sorafenib"
+    },
+    "Dyspareunia": {
+        "drug": "Ospemifene"
+    },
+    "41</span> users found this comment helpful.": {
+        "drug": "Soma"
+    },
+    "Tic Disorde": {
+        "drug": "Risperidone"
+    },
+    "Head and Neck Cance": {
+        "drug": "Erbitux"
+    },
+    "Klinefelter Syndrome": {
+        "drug": "Testosterone"
+    },
+    "Rhinorrhea": {
+        "drug": "Atrovent Nasal"
+    },
+    "Soft Tissue Sarcoma": {
+        "drug": "Votrient"
+    },
+    "Diabetic Macular Edema": {
+        "drug": "Aflibercept"
+    },
+    "Menopausal Disorders": {
+        "drug": "Estratest H.S."
+    },
+    "Anesthetic Adjunct": {
+        "drug": "Hydromorphone"
+    },
+    "Tinea Cruris": {
+        "drug": "Terbinafine"
+    },
+    "tic (mycophenolic acid)": {
+        "drug": "Mycophenolic acid"
+    },
+    "Ischemic Stroke": {
+        "drug": "Plavix"
+    },
+    "Malignant Glioma": {
+        "drug": "Avastin"
+    },
+    "Thrombocythemia": {
+        "drug": "Myleran"
+    },
+    "Atrophic Urethritis": {
+        "drug": "Estradiol"
+    },
+    "Systemic Sclerosis": {
+        "drug": "Methotrexate"
+    },
+    "Macular Degeneration": {
+        "drug": "Aflibercept"
+    },
+    "AIDS Related Wasting": {
+        "drug": "Dronabinol"
+    },
+    "Hemophilia A": {
+        "drug": "Advate"
+    },
+    "Osteolytic Bone Lesions of Multiple Myeloma": {
+        "drug": "Zoledronic acid"
+    },
+    "Autoimmune Hemolytic Anemia": {
+        "drug": "Prednisone"
+    },
+    "ailure to Thrive": {
+        "drug": "Cyproheptadine"
+    },
+    "Strongyloidiasis": {
+        "drug": "Stromectol"
+    },
+    "Vitamin K Deficiency": {
+        "drug": "Mephyton"
+    },
+    "Ulcerative Proctitis": {
+        "drug": "Lialda"
+    },
+    "Premenstrual Syndrome": {
+        "drug": "Pamabrom"
+    },
+    "23</span> users found this comment helpful.": {
+        "drug": "Silenor"
+    },
+    "Primary Hyperaldosteronism": {
+        "drug": "Spironolactone"
+    },
+    "Lactose Intolerance": {
+        "drug": "Lactaid"
+    },
+    "Anal Itching": {
+        "drug": "Clobetasol"
+    },
+    "amilial Cold Autoinflammatory Syndrome": {
+        "drug": "Rilonacept"
+    },
+    "Duodenal Ulce": {
+        "drug": "Sucralfate"
+    },
+    "Tuberculosis, Prophylaxis": {
+        "drug": "Isoniazid"
+    },
+    "Neurosis": {
+        "drug": "Nortriptyline"
+    },
+    "Turner's Syndrome": {
+        "drug": "Somatropin"
+    },
+    "NSAID-Induced Gastric Ulce": {
+        "drug": "Nexium"
+    },
+    "CNS Magnetic Resonance Imaging": {
+        "drug": "Gadavist"
+    },
+    "Atherosclerosis": {
+        "drug": "Crestor"
+    },
+    "Deep Vein Thrombosis Prophylaxis after Hip Replacement Surgery": {
+        "drug": "Xarelto"
+    },
+    "Gastritis/Duodenitis": {
+        "drug": "Pantoprazole"
+    },
+    "Diarrhea, Acute": {
+        "drug": "Loperamide"
+    },
+    "Costochondritis": {
+        "drug": "Naprosyn"
+    },
+    "Portal Hypertension": {
+        "drug": "Propranolol"
+    },
+    "Glaucoma/Intraocular Hypertension": {
+        "drug": "Tafluprost"
+    },
+    "Toothache": {
+        "drug": "Ibuprofen"
+    },
+    "Benzodiazepine Withdrawal": {
+        "drug": "Klonopin"
+    },
+    "m Pain Disorde": {
+        "drug": "Amitriptyline"
+    },
+    "Esophageal Candidiasis": {
+        "drug": "Diflucan"
+    },
+    "Deep Vein Thrombosis Prophylaxis after Knee Replacement Surgery": {
+        "drug": "Coumadin"
+    },
+    "Peripheral Arterial Disease": {
+        "drug": "Clopidogrel"
+    },
+    "Deep Vein Thrombosis, Recurrent Event": {
+        "drug": "Warfarin"
+    },
+    "Pseudogout, Prophylaxis": {
+        "drug": "Colchicine"
+    },
+    "Lichen Planus": {
+        "drug": "Fluocinonide"
+    },
+    "CMV Prophylaxis": {
+        "drug": "Valtrex"
+    },
+    "64</span> users found this comment helpful.": {
+        "drug": "Estrace Vaginal Cream"
+    },
+    "Neuritis": {
+        "drug": "Triamcinolone"
+    },
+    "Typhoid Feve": {
+        "drug": "Ciprofloxacin"
+    },
+    "Tardive Dyskinesia": {
+        "drug": "Vitamin e"
+    },
+    "Ichthyosis": {
+        "drug": "AmLactin"
+    },
+    "Juvenile Rheumatoid Arthritis": {
+        "drug": "Etanercept"
+    },
+    "B12 Nutritional Deficiency": {
+        "drug": "Cyanocobalamin"
+    },
+    "18</span> users found this comment helpful.": {
+        "drug": "Zyprexa"
+    },
+    "Primary Nocturnal Enuresis": {
+        "drug": "Desmopressin"
+    },
+    "146</span> users found this comment helpful.": {
+        "drug": "Efudex"
+    },
+    "Dercum's Disease": {
+        "drug": "Fentanyl"
+    },
+    "Cutaneous Candidiasis": {
+        "drug": "Nystatin / triamcinolone"
+    },
+    "Gingivitis": {
+        "drug": "Peridex"
+    },
+    "Q Feve": {
+        "drug": "Doxycycline"
+    },
+    "Hyperekplexia": {
+        "drug": "Divalproex sodium"
+    },
+    "44</span> users found this comment helpful.": {
+        "drug": "Mysoline"
+    },
+    "Niacin Deficiency": {
+        "drug": "Niacin"
+    },
+    "Dietary Fiber Supplementation": {
+        "drug": "Metamucil"
+    },
+    "Nephrotic Syndrome": {
+        "drug": "Mycophenolate mofetil"
+    },
+    "Pinworm Infection (Enterobius vermicularis)": {
+        "drug": "Albendazole"
+    },
+    "Pancreatic Exocrine Dysfunction": {
+        "drug": "Creon"
+    },
+    "Nausea/Vomiting, Radiation Induced": {
+        "drug": "Ondansetron"
+    },
+    "Schilling Test": {
+        "drug": "Cyanocobalamin"
+    },
+    "Mild Cognitive Impairment": {
+        "drug": "Aricept ODT"
+    },
+    "Ischemic Stroke, Prophylaxis": {
+        "drug": "Aspirin / dipyridamole"
+    },
+    "20</span> users found this comment helpful.": {
+        "drug": "Cryselle"
+    },
+    "Gonococcal Infection, Uncomplicated": {
+        "drug": "Ciprofloxacin"
+    },
+    "Ovarian Cance": {
+        "drug": "Paclitaxel"
+    },
+    "Eyelash Hypotrichosis": {
+        "drug": "Latisse"
+    },
+    "Meniere's Disease": {
+        "drug": "Diazepam"
+    },
+    "Tinea Capitis": {
+        "drug": "Lamisil"
+    },
+    "21</span> users found this comment helpful.": {
+        "drug": "Ortho Tri-Cyclen Lo"
+    },
+    "Lichen Sclerosus": {
+        "drug": "Clobetasol"
+    },
+    "min / pioglitazone)": {
+        "drug": "Metformin / pioglitazone"
+    },
+    "Renal Transplant": {
+        "drug": "Azathioprine"
+    },
+    "Gout, Prophylaxis": {
+        "drug": "Colchicine"
+    },
+    "von Willebrand's Disease": {
+        "drug": "Stimate"
+    },
+    "Prevention of Atherothrombotic Events": {
+        "drug": "Ticagrelor"
+    },
+    "Small Fiber Neuropathy": {
+        "drug": "Duloxetine"
+    },
+    "110</span> users found this comment helpful.": {
+        "drug": "Plavix"
+    },
+    "min / rosiglitazone)": {
+        "drug": "Metformin / rosiglitazone"
+    },
+    "Peyronie's Disease": {
+        "drug": "Collagenase clostridium histolyticum"
+    },
+    "Autoimmune Hepatitis": {
+        "drug": "Azathioprine"
+    },
+    "llicular Lymphoma": {
+        "drug": "Clarithromycin"
+    },
+    "Auditory Processing Disorde": {
+        "drug": "Dexmethylphenidate"
+    },
+    "Herpes Zoster, Prophylaxis": {
+        "drug": "Zostavax"
+    },
+    "Submental Fullness": {
+        "drug": "Kybella"
+    },
+    "Lactation Augmentation": {
+        "drug": "Metoclopramide"
+    },
+    "Radionuclide Myocardial Perfusion Study": {
+        "drug": "Regadenoson"
+    },
+    "Prevention of Cardiovascular Disease": {
+        "drug": "Lipitor"
+    },
+    "Varicella-Zoste": {
+        "drug": "Valtrex"
+    },
+    "Pelvic Inflammatory Disease": {
+        "drug": "Doxycycline"
+    },
+    "Intraabdominal Infection": {
+        "drug": "Ceftriaxone"
+    },
+    "Croup": {
+        "drug": "Dexamethasone"
+    },
+    "85</span> users found this comment helpful.": {
+        "drug": "Neurontin"
+    },
+    "Dermatologic Lesion": {
+        "drug": "Methylprednisolone"
+    },
+    "Hyperlipoproteinemia Type IV, Elevated VLDL": {
+        "drug": "Niacin"
+    },
+    "Expectoration": {
+        "drug": "Acetylcysteine"
+    },
+    "Primary Hyperaldosteronism Diagnosis": {
+        "drug": "Spironolactone"
+    },
+    "Abdominal Distension": {
+        "drug": "Urecholine"
+    },
+    "Salivary Gland Cance": {
+        "drug": "Herceptin"
+    },
+    "Pulmonary Embolism, First Event": {
+        "drug": "Coumadin"
+    },
+    "Postpartum Breast Pain": {
+        "drug": "Testosterone"
+    },
+    "Postural Orthostatic Tachycardia Syndrome": {
+        "drug": "ProAmatine"
+    },
+    "46</span> users found this comment helpful.": {
+        "drug": "Uricalm"
+    },
+    "Pediatric Growth Hormone Deficiency": {
+        "drug": "Humatrope"
+    },
+    "Hypomagnesemia": {
+        "drug": "Magnesium oxide"
+    },
+    "ge HCT (amlodipine / hydrochlorothiazide / valsartan)": {
+        "drug": "Amlodipine / hydrochlorothiazide / valsartan"
+    },
+    "Hairy Cell Leukemia": {
+        "drug": "Cladribine"
+    },
+    "Histoplasmosis": {
+        "drug": "Itraconazole"
+    },
+    "Hypoglycemia": {
+        "drug": "Glucose"
+    },
+    "31</span> users found this comment helpful.": {
+        "drug": "Xanax"
+    },
+    "Brain Tum": {
+        "drug": "Everolimus"
+    },
+    "Gastrointestinal Stromal Tum": {
+        "drug": "Gleevec"
+    },
+    "Tetanus": {
+        "drug": "Valium"
+    },
+    "Breast Cancer, Prevention": {
+        "drug": "Evista"
+    },
+    "ICU Agitation": {
+        "drug": "Haldol"
+    },
+    "Women (minoxidil)": {
+        "drug": "Minoxidil"
+    },
+    "Peripheral T-cell Lymphoma": {
+        "drug": "Pralatrexate"
+    },
+    "Chronic Inflammatory Demyelinating Polyradiculoneuropathy": {
+        "drug": "Gammagard"
+    },
+    "Pathological Hypersecretory Conditions": {
+        "drug": "Zantac 150"
+    },
+    "Oral and Dental Conditions": {
+        "drug": "Clove"
+    },
+    "Antiphospholipid Syndrome": {
+        "drug": "Coumadin"
+    },
+    "Ventricular Arrhythmia": {
+        "drug": "Sotalol"
+    },
+    "Asystole": {
+        "drug": "Sodium bicarbonate"
+    },
+    "Wegener's Granulomatosis": {
+        "drug": "Rituximab"
+    },
+    "Thromboembolic Stroke Prophylaxis": {
+        "drug": "Aspirin"
+    },
+    "Platelet Aggregation Inhibition": {
+        "drug": "Plavix"
+    },
+    "Sleep Paralysis": {
+        "drug": "Clonazepam"
+    },
+    "Rejection Prophylaxis": {
+        "drug": "Myfortic"
+    },
+    "Delayed Puberty, Male": {
+        "drug": "Testosterone"
+    },
+    "Ascariasis": {
+        "drug": "Albendazole"
+    },
+    "25</span> users found this comment helpful.": {
+        "drug": "Silenor"
+    },
+    "Acute Promyelocytic Leukemia": {
+        "drug": "Arsenic trioxide"
+    },
+    "32</span> users found this comment helpful.": {
+        "drug": "Testopel"
+    },
+    "Bartonellosis": {
+        "drug": "Rifampin"
+    },
+    "Cyclothymic Disorde": {
+        "drug": "Lithium"
+    },
+    "Hypokalemic Periodic Paralysis": {
+        "drug": "Acetazolamide"
+    },
+    "Varicose Veins": {
+        "drug": "Horse chestnut"
+    },
+    "Mononucleosis": {
+        "drug": "Acyclovir"
+    },
+    "Cachexia": {
+        "drug": "Megestrol"
+    },
+    "Hyperkalemia": {
+        "drug": "Sodium polystyrene sulfonate"
+    },
+    "Still's Disease": {
+        "drug": "Anakinra"
+    },
+    "48</span> users found this comment helpful.": {
+        "drug": "Flomax"
+    },
+    "Dementia": {
+        "drug": "Haloperidol"
+    },
+    "Ocular Rosacea": {
+        "drug": "Doxycycline"
+    },
+    "Hidradenitis Suppurativa": {
+        "drug": "Humira"
+    },
+    "SIADH": {
+        "drug": "Declomycin"
+    },
+    "Bullous Pemphigoid": {
+        "drug": "Prednisone"
+    },
+    "Angioedema": {
+        "drug": "Danazol"
+    },
+    "Mountain Sickness / Altitude Sickness": {
+        "drug": "Acetazolamide"
+    },
+    "Severe Mood Dysregulation": {
+        "drug": "Risperidone"
+    },
+    "Cutaneous T-cell Lymphoma": {
+        "drug": "Bexarotene"
+    },
+    "Adrenocortical Insufficiency": {
+        "drug": "Hydrocortisone"
+    },
+    "Myxedema Coma": {
+        "drug": "Levothyroxine"
+    },
+    "Small Bowel Bacterial Overgrowth": {
+        "drug": "Amoxicillin / clavulanate"
+    },
+    "Sunburn": {
+        "drug": "Lidocaine"
+    },
+    "33</span> users found this comment helpful.": {
+        "drug": "Diovan"
+    },
+    "Transverse Myelitis": {
+        "drug": "Gabapentin"
+    },
+    "Squamous Cell Carcinoma": {
+        "drug": "Erbitux"
+    },
+    "Parkinsonism": {
+        "drug": "Procyclidine"
+    },
+    "22</span> users found this comment helpful.": {
+        "drug": "Ritalin"
+    },
+    "Thyrotoxicosis": {
+        "drug": "Propranolol"
+    },
+    "29</span> users found this comment helpful.": {
+        "drug": "Tenex"
+    },
+    "30</span> users found this comment helpful.": {
+        "drug": "Xanax"
+    },
+    "Epididymitis, Sexually Transmitted": {
+        "drug": "Ciprofloxacin"
+    },
+    "Neck Pain": {
+        "drug": "Naproxen"
+    },
+    "Bleeding Disorde": {
+        "drug": "Tranexamic acid"
+    },
+    "63</span> users found this comment helpful.": {
+        "drug": "Viibryd"
+    },
+    "actor IX Deficiency": {
+        "drug": "Tranexamic acid"
+    },
+    "Melanoma": {
+        "drug": "Opdivo"
+    },
+    "Thrombocytopenia": {
+        "drug": "Promacta"
+    },
+    "Esophageal Variceal Hemorrhage Prophylaxis": {
+        "drug": "Nadolol"
+    },
+    "Glioblastoma Multi": {
+        "drug": "Bevacizumab"
+    },
+    "Cholera": {
+        "drug": "Ciprofloxacin"
+    },
+    "Anorexia/Feeding Problems": {
+        "drug": "Luvox CR"
+    },
+    "45</span> users found this comment helpful.": {
+        "drug": "Vitamin B12"
+    },
+    "Peritonitis": {
+        "drug": "Clindamycin"
+    },
+    "AV Heart Block": {
+        "drug": "Epinephrine"
+    },
+    "Pe": {
+        "drug": "Propranolol"
+    },
+    "Wilson's Disease": {
+        "drug": "Penicillamine"
+    },
+    "Nonalcoholic Fatty Liver Disease": {
+        "drug": "Orlistat"
+    },
+    "34</span> users found this comment helpful.": {
+        "drug": "Ultram"
+    },
+    "Sepsis": {
+        "drug": "Vancomycin"
+    },
+    "Anthrax": {
+        "drug": "Ciprofloxacin"
+    },
+    "Body Imaging": {
+        "drug": "Omnipaque 350"
+    },
+    "Aggressive Behavi": {
+        "drug": "Haloperidol"
+    },
+    "Hepatic Tum": {
+        "drug": "Nexavar"
+    },
+    "Ehrlichiosis": {
+        "drug": "Doxycycline"
+    },
+    "Hypopituitarism": {
+        "drug": "Somatropin"
+    },
+    "Gender Dysphoria": {
+        "drug": "Spironolactone"
+    },
+    "Infectious Diarrhea": {
+        "drug": "Ciprofloxacin"
+    },
+    "Ventricular Fibrillation": {
+        "drug": "Amiodarone"
+    },
+    "Anaphylaxis": {
+        "drug": "Epinephrine"
+    },
+    "Pemphigus": {
+        "drug": "Rituxan"
+    },
+    "Multiple Endocrine Adenomas": {
+        "drug": "Omeprazole"
+    },
+    "Pre-Exposure Prophylaxis": {
+        "drug": "Emtricitabine / tenofovir"
+    },
+    "Postoperative Increased Intraocular Pressure": {
+        "drug": "Nepafenac"
+    },
+    "Pruritus of Partial Biliary Obstruction": {
+        "drug": "Cholestyramine"
+    },
+    "Pertussis": {
+        "drug": "Clarithromycin"
+    },
+    "Periodontitis": {
+        "drug": "Chlorhexidine"
+    },
+    "Lymphoma": {
+        "drug": "Dexamethasone"
+    },
+    "Hypercalcemia of Malignancy": {
+        "drug": "Zometa"
+    },
+    "Pityriasis rubra pilaris": {
+        "drug": "Triamcinolone"
+    },
+    "Amebiasis": {
+        "drug": "Tinidazole"
+    },
+    "t Care": {
+        "drug": "Salicylic acid / urea"
+    },
+    "Hepatic Encephalopathy": {
+        "drug": "Generlac"
+    },
+    "55</span> users found this comment helpful.": {
+        "drug": "Mobic"
+    },
+    "Deep Neck Infection": {
+        "drug": "Clindamycin"
+    },
+    "Meningitis, Meningococcal": {
+        "drug": "Meningococcal group B vaccine"
+    },
+    "Parkinsonian Trem": {
+        "drug": "Scopolamine"
+    },
+    "Rabies Prophylaxis": {
+        "drug": "Rabies vaccine, human diploid cell"
+    },
+    "39</span> users found this comment helpful.": {
+        "drug": "Trileptal"
+    },
+    "Hypotension": {
+        "drug": "Midodrine"
+    },
+    "Myelofibrosis": {
+        "drug": "Ruxolitinib"
+    },
+    "98</span> users found this comment helpful.": {
+        "drug": "Dantrium"
+    },
+    "cal Segmental Glomerulosclerosis": {
+        "drug": "Rituxan"
+    },
+    "Gastric Ulcer Maintenance Treatment": {
+        "drug": "Zantac"
+    },
+    "Paget's Disease": {
+        "drug": "Actonel"
+    },
+    "Infection Prophylaxis": {
+        "drug": "Sulfamethoxazole / trimethoprim"
+    },
+    "Gastrointestinal Decontamination": {
+        "drug": "Polyethylene glycol 3350 with electrolytes"
+    },
+    "Mixed Connective Tissue Disease": {
+        "drug": "Prednisone"
+    },
+    "24</span> users found this comment helpful.": {
+        "drug": "Viibryd"
+    },
+    "Somatoform Pain Disorde": {
+        "drug": "Elavil"
+    },
+    "Esophageal Spasm": {
+        "drug": "Isosorbide mononitrate"
+    },
+    "Campylobacter Gastroenteritis": {
+        "drug": "Floxin"
+    },
+    "Hyperphosphatemia": {
+        "drug": "Calcium acetate"
+    },
+    "Oligospermia": {
+        "drug": "Clomiphene"
+    },
+    "Wound Cleansing": {
+        "drug": "Acetic acid"
+    },
+    "Euvolemic Hyponatremia": {
+        "drug": "Vaprisol"
+    },
+    "Gallbladder Disease": {
+        "drug": "Ursodiol"
+    },
+    "84</span> users found this comment helpful.": {
+        "drug": "Synthroid"
+    },
+    "Mycobacterium avium-intracellulare, Treatment": {
+        "drug": "Azithromycin"
+    },
+    "Oppositional Defiant Disorde": {
+        "drug": "Vyvanse"
+    },
+    "Legionella Pneumonia": {
+        "drug": "Clarithromycin"
+    },
+    "Breast Cancer, Palliative": {
+        "drug": "Zoladex"
+    },
+    "Hydrocephalus": {
+        "drug": "Acetazolamide"
+    },
+    "Hyperlipoproteinemia Type III, Elevated beta-VLDL   IDL": {
+        "drug": "Pravastatin"
+    },
+    "36</span> users found this comment helpful.": {
+        "drug": "Klor-Con"
+    },
+    "Anaplastic Astrocytoma": {
+        "drug": "Temodar"
+    },
+    "Dupuytren's contracture": {
+        "drug": "Collagenase clostridium histolyticum"
+    },
+    "40</span> users found this comment helpful.": {
+        "drug": "Remeron"
+    },
+    "Mumps Prophylaxis": {
+        "drug": "Mumps virus vaccine"
+    },
+    "Skin Disinfection, Preoperative": {
+        "drug": "Chlorhexidine"
+    },
+    "Hyperbilirubinemia": {
+        "drug": "Phenobarbital"
+    },
+    "Meningitis": {
+        "drug": "Ampicillin"
+    },
+    "Corneal Ulce": {
+        "drug": "Ofloxacin"
+    },
+    "acial Lipoatrophy": {
+        "drug": "Dermal filler"
+    },
+    "43</span> users found this comment helpful.": {
+        "drug": "Lo / Ovral-28"
+    },
+    "Percutaneous Coronary Intervention": {
+        "drug": "Plavix"
+    },
+    "Hepatitis B Prevention": {
+        "drug": "Hepatitis b adult vaccine"
+    },
+    "Tuberculosis, Active": {
+        "drug": "Isoniazid"
+    },
+    "Cerebrovascular Insufficiency": {
+        "drug": "Isoxsuprine"
+    },
+    "Head Injury": {
+        "drug": "Risperdal"
+    },
+    "Anti NMDA Receptor Encephalitis": {
+        "drug": "Immune globulin intravenous"
+    },
+    "Nonoccupational Exposure": {
+        "drug": "Efavirenz"
+    },
+    "72</span> users found this comment helpful.": {
+        "drug": "Prozac"
+    },
+    "Gonadotropin Inhibition": {
+        "drug": "Junel Fe 1 / 20"
+    },
+    "unctional Gastric Disorde": {
+        "drug": "Simethicone"
+    },
+    "Chronic Eosinophilic Leukemia": {
+        "drug": "Gleevec"
+    },
+    "Acetaminophen Overdose": {
+        "drug": "Acetylcysteine"
+    },
+    "Duodenal Ulcer Prophylaxis": {
+        "drug": "Esomeprazole"
+    },
+    "Paragonimus westermani, Lung Fluke": {
+        "drug": "Praziquantel"
+    },
+    "Alpha-1 Proteinase Inhibitor Deficiency": {
+        "drug": "Prolastin-C"
+    },
+    "Cogan's Syndrome": {
+        "drug": "Methotrexate"
+    },
+    "Uterine Bleeding": {
+        "drug": "Prometrium"
+    },
+    "Stomach Cance": {
+        "drug": "Capecitabine"
+    },
+    "Sporotrichosis": {
+        "drug": "Itraconazole"
+    },
+    "Cluster-Tic Syndrome": {
+        "drug": "Carbamazepine"
+    },
+    "Gestational Diabetes": {
+        "drug": "Insulin isophane"
+    },
+    "Stress Ulcer Prophylaxis": {
+        "drug": "Carafate"
+    },
+    "Reversal of Nondepolarizing Muscle Relaxants": {
+        "drug": "Pyridostigmine"
+    },
+    "Solid Tumors": {
+        "drug": "Docetaxel"
+    },
+    "mist (": {
+        "drug": "Formoterol"
+    },
+    "Schnitzler Syndrome": {
+        "drug": "Anakinra"
+    },
+    "Hypocalcemia": {
+        "drug": "Calcium carbonate"
+    },
+    "26</span> users found this comment helpful.": {
+        "drug": "Dulcolax"
+    },
+    "Meningococcal Meningitis Prophylaxis": {
+        "drug": "Menactra"
+    },
+    "Nocardiosis": {
+        "drug": "Sulfamethoxazole / trimethoprim"
+    },
+    "Hemophilia B": {
+        "drug": "Alphanine SD"
+    },
+    "42</span> users found this comment helpful.": {
+        "drug": "Zoloft"
+    },
+    "Microscopic polyangiitis": {
+        "drug": "Rituximab"
+    },
+    "Gonococcal Infection, Disseminated": {
+        "drug": "Ceftriaxone"
+    },
+    "Neurotic Depression": {
+        "drug": "Amitriptyline"
+    },
+    "Keratitis": {
+        "drug": "Loteprednol"
+    },
+    "99</span> users found this comment helpful.": {
+        "drug": "Mobic"
+    },
+    "Hodgkin's Lymphoma": {
+        "drug": "Nivolumab"
+    },
+    "me": {
+        "drug": "Temozolomide"
+    },
+    "STD Prophylaxis": {
+        "drug": "Cefixime"
+    },
+    "123</span> users found this comment helpful.": {
+        "drug": "BuSpar"
+    },
+    "Small Bowel or Pancreatic Fistula": {
+        "drug": "Sandostatin"
+    },
+    "Prevention of Perinatal Group B Streptococcal Disease": {
+        "drug": "Clindamycin"
+    },
+    "74</span> users found this comment helpful.": {
+        "drug": "Robaxin"
+    },
+    "Cerebral Edema": {
+        "drug": "Dexamethasone"
+    },
+    "Testicular Cance": {
+        "drug": "Ifosfamide"
+    },
+    "Short Stature for Age": {
+        "drug": "Humatrope"
+    },
+    "47</span> users found this comment helpful.": {
+        "drug": "Rexulti"
+    },
+    "Aspergillosis, Aspergilloma": {
+        "drug": "Itraconazole"
+    },
+    "Pemphigoid": {
+        "drug": "Dapsone"
+    },
+    "Hyperparathyroidism Secondary to Renal Impairment": {
+        "drug": "Rayaldee"
+    },
+    "76</span> users found this comment helpful.": {
+        "drug": "Neurontin"
+    },
+    "Ramsay Hunt Syndrome": {
+        "drug": "Valacyclovir"
+    },
+    "Cutaneous Larva Migrans": {
+        "drug": "Albendazole"
+    },
+    "Occipital Neuralgia": {
+        "drug": "Gabapentin"
+    },
+    "Blepharitis": {
+        "drug": "Dexamethasone / neomycin / polymyxin b"
+    },
+    "Patent Ductus Arteriosus": {
+        "drug": "Ibuprofen"
+    },
+    "Joint Infection": {
+        "drug": "Rocephin"
+    },
+    "77</span> users found this comment helpful.": {
+        "drug": "Estrace Vaginal Cream"
+    },
+    "Manscaping Pain": {
+        "drug": "Lidocaine"
+    },
+    "Strabismus": {
+        "drug": "OnabotulinumtoxinA"
+    },
+    "Organ Transplant, Rejection Reversal": {
+        "drug": "Prograf"
+    },
+    "Leukocytoclastic Vasculitis": {
+        "drug": "Dapsone"
+    },
+    "Coronary Artery Disease": {
+        "drug": "Amlodipine"
+    },
+    "Gastric Cance": {
+        "drug": "Methotrexate"
+    },
+    "ibrocystic Breast Disease": {
+        "drug": "Danazol"
+    },
+    "121</span> users found this comment helpful.": {
+        "drug": "Plavix"
+    },
+    "ungal Infection Prophylaxis": {
+        "drug": "Itraconazole"
+    },
+    "Short Stature": {
+        "drug": "Somatropin"
+    },
+    "Hypercalcemia": {
+        "drug": "Furosemide"
+    },
+    "Coccidioidomycosis": {
+        "drug": "Sporanox"
+    },
+    "Cyclitis": {
+        "drug": "Loteprednol"
+    },
+    "Anemia, Chemotherapy Induced": {
+        "drug": "Darbepoetin alfa"
+    },
+    "Upper Limb Spasticity": {
+        "drug": "Botox"
+    },
+    "95</span> users found this comment helpful.": {
+        "drug": "Ritalin"
+    },
+    "61</span> users found this comment helpful.": {
+        "drug": "Cozaar"
+    },
+    "Diagnostic Bronchograms": {
+        "drug": "Acetylcysteine"
+    },
+    "Neoplastic Diseases": {
+        "drug": "Methotrexate"
+    },
+    "51</span> users found this comment helpful.": {
+        "drug": "Cialis"
+    },
+    "Mycoplasma Pneumonia": {
+        "drug": "Azithromycin"
+    },
+    "Linear IgA Disease": {
+        "drug": "Dapsone"
+    },
+    "Subarachnoid Hemorrhage": {
+        "drug": "Nimodipine"
+    },
+    "Myeloproliferative Disorders": {
+        "drug": "Imatinib"
+    },
+    "ungal Pneumonia": {
+        "drug": "Fluconazole"
+    },
+    "145</span> users found this comment helpful.": {
+        "drug": "Flexeril"
+    },
+    "Scleroderma": {
+        "drug": "Methotrexate"
+    },
+    "Zollinger-Ellison Syndrome": {
+        "drug": "Omeprazole"
+    },
+    "Tinea Barbae": {
+        "drug": "Griseofulvin"
+    },
+    "Acute Nonlymphocytic Leukemia": {
+        "drug": "Isotretinoin"
+    },
+    "62</span> users found this comment helpful.": {
+        "drug": "Soma"
+    },
+    "92</span> users found this comment helpful.": {
+        "drug": "Neurontin"
+    },
+    "Neutropenia": {
+        "drug": "Filgrastim"
+    },
+    "Rat-bite Feve": {
+        "drug": "Penicillin v potassium"
+    },
+    "Uveitis, Posteri": {
+        "drug": "Prednisone"
+    },
+    "Premature Ejaculation": {
+        "drug": "Clomipramine"
+    },
+    "Polymyositis/Dermatomyositis": {
+        "drug": "Corticotropin"
+    },
+    "Corneal Refractive Surgery": {
+        "drug": "Ketorolac"
+    },
+    "Gastrointestinal Hemorrhage": {
+        "drug": "Omeprazole / sodium bicarbonate"
+    },
+    "Bacteremia": {
+        "drug": "Zyvox"
+    },
+    "Jet Lag": {
+        "drug": "Melatonin"
+    },
+    "llicle Stimulation": {
+        "drug": "Menotropins"
+    },
+    "Myotonia Congenita": {
+        "drug": "Mexiletine"
+    },
+    "Aplastic Anemia": {
+        "drug": "Eltrombopag"
+    },
+    "Hemorrhoids (pramoxine / zinc oxide)": {
+        "drug": "Pramoxine / zinc oxide"
+    },
+    "Salmonella Gastroenteritis": {
+        "drug": "Ciprofloxacin"
+    },
+    "Somat": {
+        "drug": "Amitriptyline"
+    },
+    "37</span> users found this comment helpful.": {
+        "drug": "Micardis"
+    },
+    "Nausea (phosphorated carbohydrate solution)": {
+        "drug": "Phosphorated carbohydrate solution"
+    },
+    "Occupational Exposure": {
+        "drug": "Combivir"
+    },
+    "83</span> users found this comment helpful.": {
+        "drug": "Victoza"
+    },
+    "Tympanostomy Tube Placement Surgery": {
+        "drug": "Ciprofloxacin"
+    },
+    "Pulmonary Edema": {
+        "drug": "Furosemide"
+    },
+    "Mantle Cell Lymphoma": {
+        "drug": "Ibrutinib"
+    },
+    "70</span> users found this comment helpful.": {
+        "drug": "Zanaflex"
+    },
+    "Lyme Disease, Erythema Chronicum Migrans": {
+        "drug": "Azithromycin"
+    },
+    "100</span> users found this comment helpful.": {
+        "drug": "Estrace Vaginal Cream"
+    },
+    "Renal Tubular Acidosis": {
+        "drug": "Potassium citrate"
+    },
+    "Yellow Fever Prophylaxis": {
+        "drug": "Yellow fever vaccine"
+    },
+    "Acute Otitis Externa": {
+        "drug": "Ciprofloxacin"
+    },
+    "Steroid Responsive Inflammatory Conditions": {
+        "drug": "Fluorometholone"
+    },
+    "135</span> users found this comment helpful.": {
+        "drug": "Xenical"
+    },
+    "38</span> users found this comment helpful.": {
+        "drug": "Flexeril"
+    },
+    "Pertussis Prophylaxis": {
+        "drug": "Clarithromycin"
+    },
+    "105</span> users found this comment helpful.": {
+        "drug": "Viagra"
+    }
+}

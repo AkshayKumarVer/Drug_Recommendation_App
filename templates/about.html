@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About - Drug Recommendation System</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+        .navbar {
+            width: 100%;
+            background-color: #000; /* Black background */
+            padding: 15px 0; /* Padding for taskbar */
+            position: fixed; /* Fix taskbar at the top */
+            top: 0;
+            left: 0;
+            z-index: 1000;
+            text-align: center;
+        }
+        .navbar a {
+            color: white;
+            text-decoration: none;
+            margin: 0 20px;
+            font-size: 18px;
+            font-weight: bold;
+        }
+        .navbar a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            margin-top: 90px; /* Prevent content from overlapping the navbar */
+            background: #ffffff;
+            padding: 20px 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+            margin: 90px auto; /* Center the container */
+        }
+        h1 {
+            text-align: center;
+            font-size: 24px;
+            color: #333;
+        }
+        p {
+            font-size: 16px;
+            color: #555;
+            line-height: 1.6;
+            text-align: justify;
+        }
+        ul {
+            margin: 10px 0;
+            padding: 0;
+            list-style-type: disc;
+            padding-left: 20px;
+        }
+        ul li {
+            font-size: 16px;
+            color: #555;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <div class="navbar">
+        <a href="/">Home</a>
+        <a href="/about">About</a>
+    </div>
+    <div class="container">
+        <h1>About</h1>
+        <p>
+            The Drug Recommendation System is a cutting-edge application designed to provide insights and potential solutions for patients based on the symptoms they describe. 
+            Using advanced data and algorithms, this system identifies the most suitable drugs for specific conditions, enabling faster and more accurate healthcare decisions.
+        </p>
+        <h2>Technology Stack</h2>
+        <ul>
+            <li><strong>Large Language Model (LLM):</strong> facebook/bart-large-mnli model is leveraged for its ability to perform Natural Language Inference(NLI)</li>
+            <li><strong>Framework:</strong> Flask is used as the backend framework to manage requests, routing, and data processing efficiently.</li>
+            <li><strong>Database:</strong> A structured database containing drug information, conditions, and recommendations powers the system's insights.</li>
+            <li><strong>Frontend:</strong> HTML, CSS, and JavaScript for a user-friendly interface and seamless navigation.</li>
+        </ul>
+        <h2>Project Highlights</h2>
+        <ul>
+            <li>Integrated symptom-based drug recommendation powered by natural language processing (NLP).</li>
+            <li>Utilized LLMs to analyze and interpret medical text data for accurate predictions.</li>
+            <li>Built a robust data pipeline to preprocess symptom data and align it with drug-condition mappings.</li>
+            <li>Designed a responsive web interface for better user experience.</li>
+            <li>Implemented model deployment strategies to integrate the LLM with the Flask application.</li>
+        </ul>
+        <p>
+            Please note that this tool is for informational purposes and should not replace professional medical advice.
+        </p>
+        <h2>About the Developer</h2>
+        <p>
+            This system was developed as part of a project to showcase expertise in full-stack web development, machine learning integration, and natural language processing (NLP) capabilities. 
+            The primary focus was to solve real-world problems using cutting-edge AI technologies and enhance skills in deploying production-ready applications.
+        </p>
+    </div>
+</body>
+</html>
